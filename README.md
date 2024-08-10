@@ -46,8 +46,8 @@
 ###
 
 <br clear="both">
+![Snake animation](https://github.com/qh21/qh21/blob/output/snake.svg)
 
-<img src="https://raw.githubusercontent.com/qh21/qh21/output/snake.svg" alt="Snake animation" />
 
 ###
 
