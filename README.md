@@ -46,7 +46,8 @@
 ###
 
 <br clear="both">
-![Snake animation](https://github.com/qh21/qh21/blob/output/snake.svg)
+![GitHub Snake Light](https://github.com/qh21/qh21/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/qh21/qh21/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
 ###
